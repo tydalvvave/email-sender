@@ -1,14 +1,6 @@
 # email-sender  
 ### Created October 2016
 #### CSC 317: Computer Networks - Cornell College
-___
-
-##### Contributors
-This program has 3 contributors:
-* Tyler Wians
-* Jeremy Novak
-* Kyle Drum
-___
 
 ##### EmailSender
 EmailSender is a Java program that runs from a console window; however, it can be run using an IDE. The program does not require any input. It simply sends me an e-mail with a pre-determined message using a Java socket connection. This connection is based upon a local mail server, using one of the mail exchanger addresses as a parameter.
@@ -21,3 +13,11 @@ EmailSender is a Java program that runs from a console window; however, it can b
 
 ##### Source Code
 (enter sources here)
+
+***
+
+##### Contributors
+This program has 3 contributors:
+* Tyler Wians
+* Jeremy Novak
+* Kyle Drum
