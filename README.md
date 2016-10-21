@@ -1,5 +1,5 @@
 # email-sender  
-## Cornell College
+### Cornell College
 ### CSC 317: Computer Networks
 #### Created October 2016
 
